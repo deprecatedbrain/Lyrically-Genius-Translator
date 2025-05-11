@@ -1,0 +1,4 @@
+openai
+questionary
+lyricsgenius
+python-dotenv
